@@ -1,4 +1,4 @@
-# LifeBlog
+# NewBlog
 
 > A Vue.js project
 
