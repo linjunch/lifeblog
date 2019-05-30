@@ -1,4 +1,4 @@
-# lifeblog
+# LifeBlog
 
 > A Vue.js project
 
